@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">EvaluacionEmpresa</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nave">Nave</string>
+    <string name="matricula">Matrícula</string>
+    <string name="fechaCompra">Fecha de compra</string>
+    <string name="fechaMantencion">Fecha de mantención</string>
+    <string name="capitan">Capitán</string>
+    <string name="costoAcumulado">Costo acumulado</string>
+    <string name="buttonForm">Ingresar nuevo formulario</string>
+    <string name="verForm">Ver formularios existentes</string>
+</resources>
